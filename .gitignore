@@ -1,0 +1,6 @@
+.idea
+cmake-build-debug-docker
+tmp
+buildtree
+.clion.source.upload.marker
+**/.DS_Store

@@ -1,0 +1,9 @@
+version: '3'
+services:
+  schedulix-dev:
+    container_name: schedulix-cpp-dev
+    build:
+      context: .
+    cap_add:
+      - ALL
+    privileged: true
